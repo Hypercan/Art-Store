@@ -5,4 +5,7 @@ Hello, in this project, I did the 1st homework of Paitka.dev in Bootstrap. The p
 2. Artists
 3. About Us
 ***
-
+## Here are the Project Pictures
+![Image](/img/mArt-1.png)
+![Image](/img/mArt-2.png)
+![Image](/img/mArt-3.png)
